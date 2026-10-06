@@ -1,0 +1,25 @@
+RecipeHub Database Configuration
+================================
+
+Create the following Java file:
+
+src/main/java/com/recipehub/util/DBConfig.java
+
+Use:
+
+package com.recipehub.util;
+
+public final class DBConfig {
+
+    public static final String USER = "root";
+    public static final String PASSWORD = "YOUR_MYSQL_PASSWORD";
+
+    private DBConfig() {
+    }
+}
+
+Replace YOUR_MYSQL_PASSWORD with your local MySQL password.
+
+Important:
+DBConfig.java contains local credentials and must NOT be committed
+to the public GitHub repository.
