@@ -594,8 +594,8 @@ The application includes responsive interfaces for:
 * Recipe moderation
 
 Here's some screenshots of the website.
-![1](assets/screenshots/1.png)
-
+![1](assets/screenshots/1.png)![2](assets/screenshots/2.png)
+![3](assets/screenshots/3.png)![4](assets/screenshots/4.png)
 
 ---
 
