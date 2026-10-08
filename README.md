@@ -578,28 +578,6 @@ The project is intended as an academic/demo application rather than a production
 
 ---
 
-## 🖥️ Review 1 Deliverables
-
-The repository also contains supporting Review 1 material:
-
-```text
-Online_Recipe_Sharing_Platform_Review1.pdf
-Online_Recipe_Sharing_Platform_Review1.pptx
-```
-
-Additional documentation:
-
-```text
-docs/FEATURE_MAP.md
-docs/GITHUB_SETUP.md
-docs/REVIEW1_CHECKLIST.md
-docs/VIVA_NOTES.md
-```
-
-These materials document the project structure, implemented functionality, GitHub setup, Review 1 preparation, and viva-related concepts.
-
----
-
 ## 📸 Screenshots & UI
 
 The application includes responsive interfaces for:
@@ -615,7 +593,9 @@ The application includes responsive interfaces for:
 * Admin dashboard
 * Recipe moderation
 
-Screenshots can be added to this README as the project progresses.
+Here's some screenshots of the website.
+![1](assets/screenshots/1.png)
+
 
 ---
 
